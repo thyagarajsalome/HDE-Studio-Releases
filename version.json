@@ -4,7 +4,7 @@
   "releaseName": "HDE Studio v2.2.10",
   "downloadUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.10/HDE-Studio.jar",
   "setupUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.10/HDE-Studio-Setup-v2.2.10.exe",
-  "macUrl": "",
-  "linuxUrl": "",
+  "macUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.10/HDE-Studio-v2.2.10-macOS.zip",
+  "linuxUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.10/HDE-Studio-v2.2.10-Linux-Portable.zip",
   "releaseNotes": "\u2022 AutoCAD-style Dimensioning Tool: 2-point extension selection with real-time rubber-band and dynamic offset dragging\n\u2022 1-Click Wall Auto-Dimensioning: Hover and click any wall to immediately drag out full-length dimensions\n\u2022 Interactive Dimension Grips: Select existing dimensions to dynamically adjust offset distance\n\u2022 High-performance 60 FPS live dimension preview and crosshair cursor feedback\n\u2022 Multi-platform release packages (Windows Setup .exe, Windows Portable .zip, Linux .tar.gz, macOS .app .zip)"
 }
