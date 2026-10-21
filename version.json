@@ -1,10 +1,10 @@
 {
-  "version": "2.2.7",
-  "tag": "v2.2.7",
-  "releaseName": "HDE Studio v2.2.7 \u2014 AutoCAD Dimensioning & Auto-Dimension",
-  "downloadUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.7/HDE-Studio-v2.2.7.jar",
-  "setupUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.7/HDE-Studio-Setup-v2.2.7.exe",
-  "macUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.7/HDE-Studio-v2.2.7-macOS.zip",
-  "linuxUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.7/HDE-Studio-v2.2.7-Linux-Portable.zip",
-  "releaseNotes": "## What's New in v2.2.7\n\n* **AutoCAD-style Dimension Tool**: Select two points with real-time rubber-band measurement and dynamic offset dragging.\n* **1-Click Wall Auto-Dimensioning**: Hover over any wall to highlight and click once to immediately drag out full-length dimensions.\n* **Interactive Dimension Grips**: Select existing dimensions to dynamically adjust offset distance or endpoint positions.\n* **60 FPS Live Dragging & Crosshair Feedback**: Smooth real-time canvas updates while drafting dimensions.\n* **14-Day Free Evaluation Trial**: Built-in 14-day evaluation trial for new users with machine fingerprint security.\n* **Public Release Distribution Channel**: Separated release binaries from private source repository.\n\n### Downloads\n* Windows Installer: HDE-Studio-Setup-v2.2.7.exe\n* Standalone Java Application: HDE-Studio.jar\n"
+  "version": "2.2.10",
+  "tag": "v2.2.10",
+  "releaseName": "HDE Studio v2.2.10",
+  "downloadUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.10/HDE-Studio.jar",
+  "setupUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.10/HDE-Studio-Setup-v2.2.10.exe",
+  "macUrl": "",
+  "linuxUrl": "",
+  "releaseNotes": "\u2022 AutoCAD-style Dimensioning Tool: 2-point extension selection with real-time rubber-band and dynamic offset dragging\n\u2022 1-Click Wall Auto-Dimensioning: Hover and click any wall to immediately drag out full-length dimensions\n\u2022 Interactive Dimension Grips: Select existing dimensions to dynamically adjust offset distance\n\u2022 High-performance 60 FPS live dimension preview and crosshair cursor feedback\n\u2022 Multi-platform release packages (Windows Setup .exe, Windows Portable .zip, Linux .tar.gz, macOS .app .zip)"
 }
