@@ -1,10 +1,10 @@
 {
-  "version": "2.2.32",
-  "tag": "v2.2.32",
-  "releaseName": "HDE Studio v2.2.32",
-  "downloadUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.32/HDE-Studio-v2.2.32.jar",
-  "setupUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.32/HDE-Studio-Setup-v2.1.exe",
-  "macUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.32/HDE-Studio-2.2.32.dmg",
-  "linuxUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.32/HDE-Studio-v2.2.32-Linux-Portable.zip",
+  "version": "2.2.33",
+  "tag": "v2.2.33",
+  "releaseName": "HDE Studio v2.2.33",
+  "downloadUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.33/HDE-Studio-v2.2.33.jar",
+  "setupUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.33/HDE-Studio-Setup-v2.2.33.exe",
+  "macUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.33/HDE-Studio-v2.2.33-macOS.zip",
+  "linuxUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.33/HDE-Studio-v2.2.33-Linux-Portable.zip",
   "releaseNotes": "\u2022 Continuous Watertight 3D Floor Geometry: Seamless, unbroken interior floor slab at Z = 0 under all rooms and partition walls with zero face tearing or missing triangles\n\u2022 Synchronized Elevation Facades: 2D elevation imports strictly project actual plan walls and openings without artificial plinths, slabs, or parapets\n\u2022 Dark Charcoal Elevation Import UI: High-contrast dropdown menu with custom dark theme, cyan/emerald action highlights, and crisp readable typography\n\u2022 Interactive 2D-to-3D View Communication: Direct facade selection badges in 2D floor plan, dynamic 3D camera orbit drag handle, and bidirectional object cross-selection"
 }
