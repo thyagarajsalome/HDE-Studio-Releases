@@ -1,10 +1,10 @@
 {
-  "version": "2.2.10",
-  "tag": "v2.2.10",
-  "releaseName": "HDE Studio v2.2.10",
-  "downloadUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.10/HDE-Studio.jar",
-  "setupUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.10/HDE-Studio-Setup-v2.2.10.exe",
-  "macUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.10/HDE-Studio-v2.2.10-macOS.zip",
-  "linuxUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.10/HDE-Studio-v2.2.10-Linux-Portable.zip",
-  "releaseNotes": "\u2022 AutoCAD-style Dimensioning Tool: 2-point extension selection with real-time rubber-band and dynamic offset dragging\n\u2022 1-Click Wall Auto-Dimensioning: Hover and click any wall to immediately drag out full-length dimensions\n\u2022 Interactive Dimension Grips: Select existing dimensions to dynamically adjust offset distance\n\u2022 High-performance 60 FPS live dimension preview and crosshair cursor feedback\n\u2022 Multi-platform release packages (Windows Setup .exe, Windows Portable .zip, Linux .tar.gz, macOS .app .zip)"
+  "version": "2.2.30",
+  "tag": "v2.2.30",
+  "releaseName": "HDE Studio v2.2.30",
+  "downloadUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.30/HDE-Studio-v2.2.30.jar",
+  "setupUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.30/HDE-Studio-Setup-v2.1.exe",
+  "macUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.30/HDE-Studio-2.2.30.dmg",
+  "linuxUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.30/HDE-Studio-v2.2.30-Linux-Portable.tar.gz",
+  "releaseNotes": "\u2022 Continuous Watertight 3D Floor Geometry: Seamless, unbroken interior floor slab at Z = 0 under all rooms and partition walls with zero face tearing or missing triangles\n\u2022 Synchronized Elevation Facades: 2D elevation imports strictly project actual plan walls and openings without artificial plinths, slabs, or parapets\n\u2022 Dark Charcoal Elevation Import UI: High-contrast dropdown menu with custom dark theme, cyan/emerald action highlights, and crisp readable typography\n\u2022 Interactive 2D-to-3D View Communication: Direct facade selection badges in 2D floor plan, dynamic 3D camera orbit drag handle, and bidirectional object cross-selection"
 }
