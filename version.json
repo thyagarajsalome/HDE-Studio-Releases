@@ -1,10 +1,11 @@
 {
-  "version": "2.2.47",
-  "tag": "v2.2.47",
-  "releaseName": "HDE Studio v2.2.47",
-  "downloadUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.47/HDE-Studio-v2.2.47.jar",
-  "setupUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.47/HDE-Studio-Setup-v2.1.exe",
-  "macUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.47/HDE-Studio-2.2.47.dmg",
-  "linuxUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.47/HDE-Studio-v2.2.47-Linux-Portable.zip",
-  "releaseNotes": "\u2022 Continuous Watertight 3D Floor Geometry: Seamless, unbroken interior floor slab at Z = 0 under all rooms and partition walls with zero face tearing or missing triangles\n\u2022 Synchronized Elevation Facades: 2D elevation imports strictly project actual plan walls and openings without artificial plinths, slabs, or parapets\n\u2022 Dark Charcoal Elevation Import UI: High-contrast dropdown menu with custom dark theme, cyan/emerald action highlights, and crisp readable typography\n\u2022 Interactive 2D-to-3D View Communication: Direct facade selection badges in 2D floor plan, dynamic 3D camera orbit drag handle, and bidirectional object cross-selection"
+  "version": "2.2.61",
+  "tag": "v2.2.61",
+  "releaseName": "HDE Studio v2.2.61",
+  "downloadUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.61/HDE-Studio-Setup-v2.2.61.exe",
+  "setupUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.61/HDE-Studio-Setup-v2.2.61.exe",
+  "macUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.61/HDE-Studio.dmg",
+  "linuxUrl": "https://github.com/thyagarajsalome/HDE-Studio-Releases/releases/download/v2.2.61/HDE-Studio-v2.2.61-Linux-Portable.zip",
+  "fileSizeMb": 35.8,
+  "releaseNotes": "\u2022 Unified Paper Space Presentation Toolbar: Streamlined [Publish \u25be] drop-down menu consolidating Page Setup, Vector Blueprint Export, and Print commands into a clean, modern interface.\n\u2022 Dynamic Page Setup Modal: Instant architectural paper format selection (A4, A3, A2, A1, Arch D) with interactive Landscape/Portrait canvas orientation and custom margin guidelines.\n\u2022 Architectural Stage & Object Visibility: Complete visibility controls across all 9 design stages with live canvas toggles (H to hide selection, Alt+H to unhide all) and clean layer management."
 }
